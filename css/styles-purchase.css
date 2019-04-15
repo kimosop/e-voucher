@@ -1,0 +1,27 @@
+.container-fluid#top-banner{
+  background-color:#F9690E;
+  color:white;
+  height: 100px;
+  font-family: 'Montserrat', sans-serif;  
+}
+
+.container-fluid#border{
+  background-color:#D9D9D9;
+  color:white;
+  height: 1500px;
+  width:1000px;
+  font-family: 'Montserrat', sans-serif;  
+}
+
+.container-fluid#details{
+  background-color:white;
+  color:black;
+  height: 1400px;
+  width:700px;
+  font-family: 'Montserrat', sans-serif; 
+  margin-top:10px; 
+}
+#purchased-voucher{
+  position: center;
+  text-align: center;
+}
